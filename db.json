@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Music App",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng nghe nhạc trong lúc nghỉ ngơi sau giờ làm việc căng thẳng mệt mỏi, được xây dựng bằng Reactjs với nhiều tính năng hấp dẫn, tiện lợi",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884212/Social app/imagemusicapp_znpuf8.png",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Social App",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng mạng xã hội, nơi mọi người có thể thoải mái chia sẻ về những hoạt động hàng ngày và tự tin chia sẻ những cảm xúc. Sử dụng NodeJS, MongoDB, ReactJs, Redux",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884387/Social app/imagesocialapp_jgdlww.png",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Chat App",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng nhắn tin dùng để giao tiếp với nhau qua mạng xã hội hàng ngày, tiện lợi hơn bao giờ hết. Sử dụng NodeJS, MongoDB, ReactJs, SocketIO,..",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884546/Social app/shopsneaker_h8lpet.png",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "HH Shop",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một website bán giày sẽ giúp cho việc kinh doanh trở lên dễ hàng hơn bao giờ hết. Website sử dụng kiến thức về HTML, CSS, JavaScript.",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884546/Social app/shopsneaker_h8lpet.png",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "name": "Shoppe Clone",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Dự án này là dự án clone của shopee, lượng kiến thức trong dự án này chỉ là HTML, CSS, JavaScript.",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884232/Social app/imageshopee_aoxb38.png",
+      "categoryId": 2
+    },
+    {
+      "id": 6,
+      "name": "Sneaker Shop",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một website bán giày sẽ giúp cho việc kinh doanh trở lên dễ hàng hơn bao giờ hết. Website sử dụng kiến thức về HTML, CSS, JavaScript.",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884549/Social app/hhshop_e9vjjt.png",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Music Player",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng nghe nhạc trong lúc nghỉ ngơi sau giờ làm việc căng thẳng mệt mỏi, được xây dựng bằng Reactjs với nhiều tính năng hấp dẫn, tiện lợi",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884212/Social app/imagemusicapp_znpuf8.png",
+      "categoryId": 3
+    },
+    {
+      "id": 8,
+      "name": "Toast App",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng về các hiệu ứng animation làm cho website trở lên mượt mà và sống động. Ứng dụng sử dụng kiến thức html và JavaScript.",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884239/Social app/imagetoast_fs2uee.png",
+      "categoryId": 3
+    },
+    {
+      "id": 9,
+      "name": "Validation form",
+      "url": "http://music-app-zeta-seven.vercel.app/",
+      "description": "Một ứng dụng giúp chúng ta kiểm soát được dữ liệu người dùng nhập vào có hợp lệ hay không. Ứng dụng sử dụng kiến thức về JavaScript",
+      "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884250/Social app/imagevalidation_soijdv.png",
+      "categoryId": 3
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "React" },
+    { "id": 2, "name": "HTML, CSS" },
+    { "id": 3, "name": "JavaScript" }
+  ]
+}
