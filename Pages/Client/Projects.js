@@ -52,7 +52,7 @@ const Projects = () => {
           <option selected>Tất cả</option>
           ${categories.map(
             (category) => `
-          <option selected="${idCate == category.id ? true : false}" value="${
+          <option ${idCate == category.id ? "selected" : ""} value="${
               category.id
             }">${category.name}</option>
           `

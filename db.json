@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Social App",
-      "url": "http://music-app-zeta-seven.vercel.app/",
+      "url": "https://social-app-rust.vercel.app/",
       "description": "Một ứng dụng mạng xã hội, nơi mọi người có thể thoải mái chia sẻ về những hoạt động hàng ngày và tự tin chia sẻ những cảm xúc. Sử dụng NodeJS, MongoDB, ReactJs, Redux",
       "image": "https://res.cloudinary.com/dsvfqgd20/image/upload/v1676884387/Social app/imagesocialapp_jgdlww.png",
       "categoryId": 1
@@ -74,8 +74,17 @@
     }
   ],
   "categories": [
-    { "id": 1, "name": "React" },
-    { "id": 2, "name": "HTML, CSS" },
-    { "id": 3, "name": "JavaScript" }
+    {
+      "id": 1,
+      "name": "React"
+    },
+    {
+      "id": 2,
+      "name": "HTML, CSS"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript"
+    }
   ]
 }
