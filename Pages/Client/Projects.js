@@ -41,7 +41,7 @@ const Projects = () => {
   });
 
   return `
-  <div class="py-10 bg-gray-300">
+  <div class="py-10 bg-gray-300" id="projects">
     <h1 class="text-4xl md:text-6xl font-bold py-10 text-center">Projects</h1>
     <div class="w-[1200px] mx-auto h-[50px] mb-10">
       <div class="relative h-full flex items-center">

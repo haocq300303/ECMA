@@ -1,6 +1,7 @@
 const About = () => {
   return `
-    <h1 class="text-4xl md:text-6xl font-bold text-center my-10">About</h1>
+  <div id="about">
+  <h1 class="text-4xl md:text-6xl font-bold text-center my-10">About</h1>
     <div class="w-[1200px] mx-auto flex justify-between gap-8 mb-20" >
       <div class="w-[50%]">
         <img src="https://res.cloudinary.com/dsvfqgd20/image/upload/v1676784340/Social app/avatar_oftj23.jpg" alt="background" class="w-full rounded-2xl" />
@@ -43,6 +44,8 @@ const About = () => {
         </div>
       </div>
     </div>
+  </div>
+    
   `;
 };
 
